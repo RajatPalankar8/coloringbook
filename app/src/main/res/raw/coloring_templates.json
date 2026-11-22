@@ -41,7 +41,8 @@
         { "id": "animal_lion", "title": "Cute Lion", "resourceName": "animal_lion" },
         { "id": "animal_butterfly", "title": "Butterfly", "resourceName": "animal_butterfly" },
         { "id": "animal_cat", "title": "Kitty Cat", "resourceName": "animal_cat" },
-        { "id": "animal_fish", "title": "Little Fish", "resourceName": "animal_fish" }
+        { "id": "animal_fish", "title": "Little Fish", "resourceName": "animal_fish" },
+        { "id": "animal_fish1", "title": "Little Fish 2", "resourceName": "animal_fish2" }
       ]
     },
     {
