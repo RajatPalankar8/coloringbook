@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "id": "alphabet",
+      "name": "Alphabet A-Z",
+      "icon": "font_download",
+      "templates": [
+        { "id": "letter_a", "title": "Letter A", "resourceName": "letter_a" },
+        { "id": "letter_b", "title": "Letter B", "resourceName": "letter_b" },
+        { "id": "letter_c", "title": "Letter C", "resourceName": "letter_c" },
+        { "id": "letter_d", "title": "Letter D", "resourceName": "letter_d" },
+        { "id": "letter_e", "title": "Letter E", "resourceName": "letter_e" },
+        { "id": "letter_f", "title": "Letter F", "resourceName": "letter_f" },
+        { "id": "letter_g", "title": "Letter G", "resourceName": "letter_g" },
+        { "id": "letter_h", "title": "Letter H", "resourceName": "letter_h" },
+        { "id": "letter_i", "title": "Letter I", "resourceName": "letter_i" },
+        { "id": "letter_j", "title": "Letter J", "resourceName": "letter_j" },
+        { "id": "letter_k", "title": "Letter K", "resourceName": "letter_k" },
+        { "id": "letter_l", "title": "Letter L", "resourceName": "letter_l" },
+        { "id": "letter_m", "title": "Letter M", "resourceName": "letter_m" },
+        { "id": "letter_n", "title": "Letter N", "resourceName": "letter_n" },
+        { "id": "letter_o", "title": "Letter O", "resourceName": "letter_o" },
+        { "id": "letter_p", "title": "Letter P", "resourceName": "letter_p" },
+        { "id": "letter_q", "title": "Letter Q", "resourceName": "letter_q" },
+        { "id": "letter_r", "title": "Letter R", "resourceName": "letter_r" },
+        { "id": "letter_s", "title": "Letter S", "resourceName": "letter_s" },
+        { "id": "letter_t", "title": "Letter T", "resourceName": "letter_t" },
+        { "id": "letter_u", "title": "Letter U", "resourceName": "letter_u" },
+        { "id": "letter_v", "title": "Letter V", "resourceName": "letter_v" },
+        { "id": "letter_w", "title": "Letter W", "resourceName": "letter_w" },
+        { "id": "letter_x", "title": "Letter X", "resourceName": "letter_x" },
+        { "id": "letter_y", "title": "Letter Y", "resourceName": "letter_y" },
+        { "id": "letter_z", "title": "Letter Z", "resourceName": "letter_z" }
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "icon": "pets",
+      "templates": [
+        { "id": "animal_lion", "title": "Cute Lion", "resourceName": "animal_lion" },
+        { "id": "animal_butterfly", "title": "Butterfly", "resourceName": "animal_butterfly" },
+        { "id": "animal_cat", "title": "Kitty Cat", "resourceName": "animal_cat" },
+        { "id": "animal_fish", "title": "Little Fish", "resourceName": "animal_fish" }
+      ]
+    },
+    {
+      "id": "plants",
+      "name": "Plants & Nature",
+      "icon": "local_florist",
+      "templates": [
+        { "id": "plant_rainbow_house", "title": "Rainbow House", "resourceName": "plant_rainbow_house" },
+        { "id": "plant_flower", "title": "Flower Garden", "resourceName": "plant_flower" },
+        { "id": "plant_tree", "title": "Big Oak Tree", "resourceName": "plant_tree" },
+        { "id": "plant_sunflower", "title": "Sunflower", "resourceName": "plant_sunflower" }
+      ]
+    }
+  ]
+}
