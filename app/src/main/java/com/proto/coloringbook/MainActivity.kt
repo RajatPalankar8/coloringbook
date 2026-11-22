@@ -550,7 +550,7 @@ fun TemplateCategoryPickerSheet(
                             Text(
                                 text = category.name,
                                 fontWeight = FontWeight.Bold,
-                                fontFamily = FontFamily.Rounded
+                                fontFamily = FontFamily.SansSerif
                             )
                         },
                         leadingIcon = {
@@ -1829,7 +1829,7 @@ private fun ClearConfirmationDialog(
                 text = "Start Over?",
                 fontSize = 22.sp,
                 fontWeight = FontWeight.ExtraBold,
-                fontFamily = FontFamily.Rounded,
+                fontFamily = FontFamily.SansSerif,
                 color = Color(0xFF2C2C2E)
             )
         },
@@ -1837,7 +1837,7 @@ private fun ClearConfirmationDialog(
             Text(
                 text = "This will erase all your colors on this page.",
                 fontSize = 16.sp,
-                fontFamily = FontFamily.Rounded
+                fontFamily = FontFamily.SansSerif
             )
         },
         confirmButton = {
